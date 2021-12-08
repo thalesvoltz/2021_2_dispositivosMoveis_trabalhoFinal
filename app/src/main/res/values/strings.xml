@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="insira_o_nome">Insira o Nome</string>
+    <string name="insira_o_telefone">Insira o Telefone</string>
+    <string name="insira_o_email">Insira o Email</string>
+    <string name="salvar_o_contato">Salvar o Contato</string>
+    <string name="remover">Remover</string>
+</resources>
